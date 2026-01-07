@@ -1,7 +1,7 @@
 # SoundGenerator
 March - May 2025 <br>
 
-Web-based Sound Generator that creates a downloadable cartridge <br>
+Web-based Sound Generator that creates a downloadable cartridge. Made as a project work. <br>
 
 ## Authors: <br>
 Reea Rinnemäki - frontend & backend programming, testing <br>
