@@ -45,3 +45,8 @@ Updating requirements.txt in backend dir terminal: pip freeze > requirements.txt
 OR if you know the port: <br>
 uvicorn api:app --reload --port XXXX <br>
 
+## DATA ANALYSIS <br>
+
+Separate data analysis section is in /dx7_analysis folder. <br>
+Instructions how to use the analyzer is in the same folder. <br>
+Also holds the final report from analyzing all the DX7 sound files. <br>
