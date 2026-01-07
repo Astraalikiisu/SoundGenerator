@@ -3,6 +3,12 @@ March - May 2025 <br>
 
 Web-based Sound Generator that creates a downloadable cartridge <br>
 
+## Authors: <br>
+Reea Rinnemäki - frontend & backend programming, testing
+Noora Nevalainen - collecting datasets, cleaning data, data analytics, python programming, testing
+Joel Hämälainen - frontend programming and testing
+
+
 ## Built with: <br>
 Backend: Python <br>
     -fastapi uvicorn <br>
