@@ -2,7 +2,7 @@
 March - May 2025 <br>
 
 Web-based Sound Generator that creates a downloadable cartridge. Made as a project work. <br>
-This proect includes the data analysis of the complete dx7 voice sets. <br>
+This project includes the data analysis of the complete dx7 voice sets. <br>
 
 ## Authors: <br>
 Reea Rinnemäki - frontend & backend programming, testing <br>
